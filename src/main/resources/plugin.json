@@ -1,6 +1,7 @@
 {
-  "entrance": "org.allaymc.javaplugintemplate.JavaPluginTemplate",
-  "name": "JavaPluginTemplate",
-  "authors": ["mdx"],
-  "version": "1.0.0"
+  "entrance": "org.allaymc.remotecommand.RemoteCommand",
+  "name": "RemoteCommand",
+  "authors": ["daoge_cmd"],
+  "version": "1.0.0",
+  "description": "Execute server command through HTTP interface"
 }

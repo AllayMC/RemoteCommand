@@ -3,7 +3,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
-group = "org.allaymc.javaplugintemplate"
+group = "org.allaymc.remotecommand"
 description = "Java plugin template for allay server"
 version = "1.0.0"
 
